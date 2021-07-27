@@ -1,0 +1,21 @@
+[submodule "pcb/library/random-keyboard-parts.pretty"]
+	path = pcb/library/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
+[submodule "pcb/library/keebio-components"]
+	path = pcb/library/keebio-components
+	url = https://github.com/keebio/keebio-components.git
+[submodule "pcb/library/Keebio-Parts.pretty"]
+	path = pcb/library/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "pcb/library/MX_Alps_Hybrid"]
+	path = pcb/library/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "pcb/library/keyboard_parts.pretty"]
+	path = pcb/library/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty.git
+[submodule "pcb/library/kicad_lib_tmk"]
+	path = pcb/library/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "pcb/library/ProMicroKiCad"]
+	path = pcb/library/ProMicroKiCad
+	url = https://github.com/Biacco42/ProMicroKiCad.git
